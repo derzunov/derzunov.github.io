@@ -3,4 +3,4 @@
   - [projects](https://derzunov.github.io/exp)
 
 
-(Clone of derzunov.github.io/me/ for clear personal site domain name. Start page for may personal derzunov.github.io/ without "/me" in address for start page)
+(Clone of derzunov.github.io/me/ for clear personal site domain name. Start page for my personal derzunov.github.io/ without "/me" in address for start page)
